@@ -9,9 +9,9 @@ To get started, follow these steps:
 
 1. Clone this repository.
 2. Install the required dependencies using `npm install`.
-       - npm init -y
-       - npm install cypress --save-dev
-       - npx cypress open
+       - npm init -y. 
+       - npm install cypress --save-dev.
+       - npx cypress open.
 4. Run Cypress tests with `npx cypress run`.
 
 ## Usage
