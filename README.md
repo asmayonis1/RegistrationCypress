@@ -20,3 +20,11 @@ To get started, follow these steps:
 - View test results: `npx cypress open`
 
 
+## Coverage TestCase
+- Auto generate company name / generate tex number/ First Name/ Last Name
+- Auto generate Phone number: started with 010 and follow validation
+- Auto generated password with rules: 5 digits with no 2 digits in sequance / and no dublicated numbers
+- Auto generate password and repeat same password
+- Validate inputs in OTP page: Till otp it's completed can't be automated  
+
+
